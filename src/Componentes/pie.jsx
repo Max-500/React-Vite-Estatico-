@@ -15,9 +15,9 @@ function pie() {
       <div className="contactos">
         <h3>Formas de Contacto</h3>
         <h4>Email</h4>
-            <p className="parrafo">ljcm500@gmail.com</p>
+            <p className="parrafo">*******@gmail.com</p>
             <h4>Telefono</h4>
-            <p className="parrafo">+52 9614510080</p>
+            <p className="parrafo">+52 961*******</p>
       </div>
     </footer>
   );

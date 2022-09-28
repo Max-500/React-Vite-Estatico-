@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    font-family: Helvetica, sans-serif;
+    background-color: rgb(250, 250, 250);
+}
+
+.contenedor-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 99%;
+    height: 400PX;
+    margin: 3px 3px 0px 3px;
+    background-image: url(../Imagenes/header_drogas.jpg);
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-color: rgb(71, 67, 67);
+    color: white;
+    border: 2px solid black;
+}
+
+.eslogan>p{
+    position: absolute;
+    top: 370px;
+    left: 660px;
+    color: white;
+    overflow: hidden;
+    flex-wrap: wrap;
+}

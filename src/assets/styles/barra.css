@@ -1,0 +1,58 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+header{
+    font-family: Helvetica, sans-serif;
+    border-left: 2px black solid;
+    border-right: 2px black solid;
+    border-bottom: 2px black solid;
+    width: 99%;
+    margin: 0px 3px 3px 3px;
+    background: #dc205a;
+    height: 30px;
+    display: flex;
+    align-items: center;
+}
+
+nav{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    list-style: none;
+    color: white;
+    cursor: pointer;
+}
+
+.logo{
+    width: 10%;
+    height: 25px;
+}
+ 
+img{
+    background-size: cover;
+    display: block;
+    margin: auto;
+}
+
+#headerL{
+    width: 40px;
+    height: 30px;
+}

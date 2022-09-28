@@ -10,9 +10,7 @@ footer{
     flex-direction: row;
     justify-content: center;
     border: solid 2px #2d3246;;
-
     color: rgba(255, 255, 255, 0.8);
-    clear: both;
     background-color: #2d3246;
 }
 

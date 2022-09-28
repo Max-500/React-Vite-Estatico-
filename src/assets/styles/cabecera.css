@@ -8,7 +8,7 @@ html, body {
     width: 100%;
     height: 100%;
     font-family: Helvetica, sans-serif;
-    background-color: rgb(250, 250, 250);
+    background-color: rgb(242, 242, 242);
 }
 
 .contenedor-header{
@@ -16,7 +16,7 @@ html, body {
     justify-content: center;
     align-items: center;
     width: 99%;
-    height: 400PX;
+    height: 600PX;
     margin: 3px 3px 0px 3px;
     background-image: url(../Imagenes/header_drogas.jpg);
     background-size: cover;
@@ -28,8 +28,8 @@ html, body {
 
 .eslogan>p{
     position: absolute;
-    top: 370px;
-    left: 660px;
+    top: 570px;
+    left: 1160px;
     color: white;
     overflow: hidden;
     flex-wrap: wrap;

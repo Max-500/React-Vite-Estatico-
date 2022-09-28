@@ -46,10 +46,12 @@ html body {
     position: absolute;
     top: 10px;
     left: 10px;
+    background-blend-mode: soft-light;
 }
 
 .content:hover{
     opacity: 1;
+    background-blend-mode: soft-light;
 }
 
 .detalles{

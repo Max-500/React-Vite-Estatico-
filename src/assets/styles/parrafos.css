@@ -22,3 +22,8 @@ p{
     margin: 10px 0px;
     color: rgb(60, 60, 60);
 }
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
